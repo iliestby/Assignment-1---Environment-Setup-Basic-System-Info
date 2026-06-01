@@ -6,7 +6,6 @@ The objective of this assignment is to create and run a simple script that displ
 
 Files included
 system_info.sh: Bash script used to display the required system information.
-img1.png: Screenshot showing the script running successfully in my terminal.
 README.md: Short explanation of the assignment and how to run the script.
 What the script displays
 The script displays:
